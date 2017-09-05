@@ -1,0 +1,178 @@
+html, body {
+	height: 100%;
+	min-height: 100%;
+}
+
+#ali-theme .body-text {
+	font-size: 20px;
+	color: white;
+}
+
+#ali-theme .centered {
+	text-align: center;
+
+}
+
+#ali-theme .right-justify {
+	display: flex;
+	justify-content: flex-end;
+}
+
+#ali-theme .right-justify-inner {
+	text-align: center;
+	float: right;
+}
+
+#ali-theme .left-justify {
+	display: flex;
+	justify-content: flex-start;
+}
+
+#ali-theme .left-justify-inner {
+	text-align: center;
+	float: left;
+}
+
+#ali-theme .remove-padding {
+	padding: 0px;
+	margin: 0px;
+}
+
+#ali-theme .nav-main {
+	background-color: black;
+}
+
+#ali-theme .nav-mobile {
+	padding-bottom: 0 !important;
+} 
+
+#ali-theme .nav-full {
+	margin-top: -1.25rem;
+}
+
+#ali-theme ul.nav-main-links {
+	list-style: none;
+	text-align: right;
+}
+
+#ali-theme .nav-main a {
+	font-size: 20px;
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-decoration: none;
+}
+
+#ali-theme .title-main {
+	font-family: 'Special Elite', cursive;
+	font-size: 50px;
+	color: white;
+	padding-top: 30px;
+}
+
+#ali-theme .video-main {
+}
+
+#ali-theme .title-section {
+	font-family: 'Special Elite', cursive;
+	font-size: 30px;
+	color: white;
+	margin: 10px 0;
+
+}
+
+#ali-theme .see-more {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	margin: 10px 0;
+}
+
+#ali-theme .btn {
+	margin: 20px 0;
+	border: 1px solid white;
+	background-color: transparent;
+}
+
+#ali-theme button:hover {
+	opacity: 0.5;
+}
+
+#ali-theme .section-theme {
+	color: white;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	padding: 90px 30px;
+	border-bottom: 3px solid black;
+}
+
+#ali-theme .section-theme-height {
+	min-height: 100%;
+	display: flex;
+	align-items: center;
+}
+
+#ali-theme .section-about {
+	background-color: #46413A;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#ali-theme .section-cast {
+	background-color: #BEBBB6;
+}
+
+
+#ali-theme .img-cast {
+	max-width: 100%;
+	height: auto;
+	box-shadow: 1px 1px 5px black;
+}
+
+#ali-theme div.row img:hover {
+	opacity: 0.5;
+}
+
+
+#ali-theme .img-popup {
+	float: left;
+	padding-right: 10px;
+	box-shadow: 0px 0px 0px;
+}
+
+#ali-theme .section-photogallery {
+	background-color: #020204;
+}
+
+#ali-theme .carosel-container {
+	width: 50%;
+}
+
+#ali-theme .img-slideshow {
+	height: 250px;
+}
+
+#ali-theme .section-instagram {
+	background-color: #464239;
+}
+
+#ali-theme .section-contactinfo {
+	background-color: #22222A;
+}
+
+#ali-theme .contactinfo {
+	padding: 20px;
+}
+
+#ali-theme .img-socialmedia {
+	width: 50px;
+	margin: 5px;
+}
+
+
+#ali-theme .slick-arrow {
+	display: none !important;
+}
+
+
+
+
+
